@@ -1,0 +1,112 @@
+# NivoDec — Source-Available Research and Evaluation License
+
+**DRAFT — NOT EFFECTIVE UNTIL OWNERSHIP AND LICENSING AUTHORITY ARE CONFIRMED**
+
+Copyright © 2026 — Team-9, AI Challenge Edition 2026, to the extent of rights lawfully held by the relevant contributors.
+-
+NivoDec is a system for decoding avalanche and nivometeorological observations.
+
+This proposed license is intended to permit academic research and evaluation of authorized NivoDec software while preserving the rights of Meteotrentino and other third-party rights holders.
+
+## 1. DEFINITIONS
+
+**1.1 Covered Software.** "Covered Software" means only the source code and other materials that the relevant rights holders have authorized for distribution under this License.
+
+**1.2 Excluded Materials.** "Excluded Materials" include, but are not limited to, meteorological and snow observation data, reference tables and codebooks, datasets, institutional documentation, trademarks, and other materials owned or controlled by Meteotrentino or other third parties, unless expressly identified as covered by a separate written license.
+
+**1.3 Licensee.** "Licensee" means any individual or organization exercising the permissions granted under this License.
+
+## 2. OWNERSHIP
+
+**2.1** Copyright and other intellectual property rights in the Covered Software remain with their respective lawful rights holders.
+
+**2.2** This License does not transfer ownership of the Covered Software to any Licensee.
+
+**2.3** Nothing in this License asserts that Team-9 owns materials originating from Meteotrentino or other third parties.
+
+**2.4** Excluded Materials remain subject to the rights and terms established by their respective owners. No permission to use, reproduce, or redistribute Excluded Materials is granted by this License.
+
+## 3. PERMITTED RESEARCH AND EVALUATION
+
+Subject to confirmation by the relevant rights holders and compliance with this License, the Licensee is granted a limited, non-exclusive, worldwide, royalty-free permission to:
+
+(a) access and download the Covered Software;
+
+(b) inspect and study its source code;
+
+(c) install and execute the Covered Software for non-commercial academic research, teaching, testing, and evaluation;
+
+(d) make modifications to the Covered Software for private, non-commercial research and evaluation;
+
+(e) describe, cite, and report research findings obtained through authorized use of the Covered Software, provided that confidential information and third-party rights are respected.
+
+These permissions apply only to the Covered Software and do not extend to Excluded Materials.
+
+## 4. RESTRICTIONS
+
+Unless the relevant rights holders grant separate written permission, the Licensee must not:
+
+(a) use the Covered Software for commercial purposes;
+
+(b) redistribute, publish, sublicense, or otherwise make available copies of the Covered Software or modified versions of it;
+
+(c) use, reproduce, or redistribute Excluded Materials in violation of their applicable terms;
+
+(d) misrepresent authorship, ownership, affiliation, endorsement, or the origin of the Covered Software;
+
+(e) remove copyright or attribution notices from copies made under this License;
+
+(f) deploy the Covered Software as an operational decision-making system for snow safety or avalanche risk management without the necessary authorization, validation, and applicable approvals.
+
+Nothing in this section prohibits activities permitted independently by applicable law.
+
+## 5. ATTRIBUTION
+
+When publishing research findings obtained through use of the Covered Software, Licensees are requested to acknowledge NivoDec and Team-9 and cite the relevant project documentation or associated publications, where appropriate.
+
+Such acknowledgement does not imply endorsement by Team-9, Meteotrentino, or any contributor.
+
+## 6. THIRD-PARTY COMPONENTS
+
+Third-party libraries, tools, datasets, and other incorporated materials may be governed by separate licenses or terms.
+
+Those terms remain applicable to the relevant materials. This License does not replace, override, or expand any third-party license.
+
+## 7. NO WARRANTY
+
+To the maximum extent permitted by applicable law, the Covered Software is provided "AS IS", without warranties or conditions of any kind, whether express or implied.
+
+No guarantee is made regarding the accuracy, completeness, reliability, suitability, or safety of its outputs.
+
+NivoDec is a research and evaluation prototype under development. Its outputs must not be treated as a substitute for validated meteorological services, qualified expert judgment, or official avalanche risk assessments.
+
+## 8. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the relevant rights holders and contributors shall not be liable for damages arising from the use of, or inability to use, the Covered Software, except where liability cannot lawfully be excluded or limited.
+
+Nothing in this License excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+## 9. TERMINATION
+
+The permissions granted under this License terminate if the Licensee materially breaches its terms and, where the breach can be remedied, fails to remedy it within a reasonable period after receiving written notice.
+
+Termination does not affect rights or obligations that applicable law requires to survive.
+
+## 10. GOVERNING LAW
+
+The governing law and jurisdiction for this License must be confirmed by the relevant rights holders before the License becomes effective.
+
+## 11. EFFECTIVE DATE AND AUTHORIZATION
+
+This document is a draft and does not grant permission to use, reproduce, modify, or redistribute any material.
+
+It becomes effective only after the relevant rights holders have confirmed in writing their ownership or authority to license the Covered Software and have approved the final terms.
+
+Any permission concerning Meteotrentino-owned materials must be separately authorized by Meteotrentino or its duly authorized representative.
+
+---
+
+**Project:** NivoDec  
+**Team:** Team-9 — AI Challenge Edition 2026  
+**Status:** Draft pending authorization  
+**Contact:** Team-9 project maintainers
